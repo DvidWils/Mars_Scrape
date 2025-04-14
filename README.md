@@ -1,7 +1,5 @@
 # Module 11 - Web Scraping challenge: Mars Analysis
 
-## Overview
-
 This project reviews Mars news articles and the weather patterns observed by the Mar's Curiosity rover.
 The files are:
 + *part_1_mars_news*
